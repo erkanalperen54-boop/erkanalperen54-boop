@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="abstract-doodle-art-pattern-doodle-wallpaper-vecto-vector.jpg" alt="Profile header" width="1080"/>
+  <img src="CV.png" alt="Profile header" width="1080"/>
 </p>
 
 <br/>
