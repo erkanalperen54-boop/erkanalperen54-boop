@@ -2,7 +2,7 @@
   <img src="CV.png" alt="Profile header" width="1080"/>
 </p>
 
-<br/>
+<!-- <br/>
 
 <h1 align="center">Alperen ERKAN</h1>
 
@@ -17,3 +17,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Shell"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="System / Assembly"/>
 </p>
+
+--!>
