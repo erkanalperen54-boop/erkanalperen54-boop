@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CV.png" alt="Profile header" width="1080"/>
+  <img src="1.png" alt="Profile header" width="1080"/>
 </p>
 
 <!-- <br/>
