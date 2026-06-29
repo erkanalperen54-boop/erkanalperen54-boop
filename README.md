@@ -2,6 +2,14 @@
   <img src="1.png" alt="Profile header" width="1080"/>
 </p>
 
+
+## Skils
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src= "https://skillicons.dev/icons?i=c,clion,git,github,linux,md,kali,docker,bash,neovim,vim,visualstudio,vscode,arch,apple" />
+  </a>
+</p>
+
 <!-- <br/>
 
 <h1 align="center">Alperen ERKAN</h1>
@@ -19,3 +27,4 @@
 </p>
 
 --!>
+icons?i=c,clion,git,github,linux,md,kali,docker,bash,neovim,vim,visualstudio,vscode,arch,apple,
