@@ -10,10 +10,13 @@
   </a>
 </p>
 
+
+
 <!-- <br/>
 
 <h1 align="center">Alperen ERKAN</h1>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erkanalperen54-boop&theme=tokyo-night)
 
 
 <p align="center">
