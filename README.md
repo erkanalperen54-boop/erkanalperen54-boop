@@ -10,7 +10,12 @@
   </a>
 </p>
 
+> [!NOTE]
+> Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems (NeOx-Ghost / NeOx-Kernel).
 
+<p align="center">
+  <img src="snake.svg" alt="snkae"/>
+</p>
 
 <!-- <br/>
 
