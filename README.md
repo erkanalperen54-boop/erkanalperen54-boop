@@ -13,7 +13,17 @@
 > [!NOTE]
 > Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems (NeOx-Ghost / NeOx-Kernel).
 
-## Best of luck
+<div align="center">
+  <h2>Verified Certifications & Global Badges</h2>
+  <br />
+
+  <img src="./github-community-leader.png" height="110" alt="GitHub Community Leader" title="GitHub Community Leader">
+  <img src="./github-advanced-security.png" height="110" alt="GitHub Advanced Security" title="GitHub Advanced Security">
+  <img src="./All-In-for-Students-All-%C4%B1n-Award.png" height="110" alt="All In for Students All In Award" title="All In for Students All In Award">
+  <img src="./Digital_Badge_Capibilties_Linux_Kernel_Debugging.png" height="110" alt="Linux Kernel Debugging" title="Linux Kernel Debugging">
+  <img src="./GSOC_GIAC.png" height="110" alt="GSOC GIAC" title="GSOC GIAC">
+  <img src="./GOSI_GIAC.png" height="110" alt="GOSI GIAC" title="GOSI GIAC">
+</div>
 
 
 
