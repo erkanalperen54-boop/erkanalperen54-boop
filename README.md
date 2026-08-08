@@ -6,15 +6,11 @@
 ## Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src= "https://skillicons.dev/icons?i=c,clion,git,github,linux,md,kali,docker,bash,neovim,vim,visualstudio,vscode,arch,apple " />
+    <img src= "https://skillicons.dev/icons?i=c,cpp,matlab,git,linux,md,kali,docker,bash,vim,bash,blender,vscode,arch,apple " />
   </a>
 </p>
-
-> [!NOTE]
-> Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems (NeOx-Ghost / NeOx-Kernel).
-
 <div align="center">
-  <h2>Verified Certifications & Global Badges</h2>
+  <h2></h2>
   <br />
 
   <img src="./github-community-leader.png" height="110" alt="GitHub Community Leader" title="GitHub Community Leader">
@@ -22,8 +18,12 @@
   <img src="./All-In-for-Students-All-%C4%B1n-Award.png" height="110" alt="All In for Students All In Award" title="All In for Students All In Award">
   <img src="./Digital_Badge_Capibilties_Linux_Kernel_Debugging.png.png" height="110" alt="Linux Kernel Debugging" title="Linux Kernel Debugging">
   <img src="./GSOC_GIAC.png" height="110" alt="GSOC GIAC" title="GSOC GIAC">
-  <img src="./GOSI_GIAC.png" height="110" alt="GOSI GIAC" title="GOSI GIAC">
+  <img src="./GOSI_GIAC.png" height="110" alt="GOSI GIAC" title="GOSI GIAC"> 
+  <h2></h2>
 </div>
+
+
+> Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems (NeOx-Ghost / NeOx-Kernel).
 
 
 
