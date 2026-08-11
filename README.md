@@ -6,7 +6,7 @@
 ## Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src= "https://skillicons.dev/icons?i=c,cpp,matlab,git,linux,md,kali,docker,bash,vim,bash,blender,vscode,arch,apple " />
+    <img src= "https://skillicons.dev/icons?i=c,cpp,matlab,git,linux,md,kali,docker,bash,vim,godot,blender,vscode,arch,apple " />
   </a>
 </p>
 <div align="center">
