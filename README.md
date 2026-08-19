@@ -6,7 +6,7 @@
 ## Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src= "https://skillicons.dev/icons?i=c,cpp,matlab,git,linux,md,kali,docker,bash,vim,godot,blender,vscode,arch,apple " />
+    <img src= "https://skillicons.dev/icons?i=c,cpp,matlab,git,linux,md,kali,docker,bash,vim,debian,blender,vscode,arch,apple " />
   </a>
 </p>
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 
-> Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems (NeOx-Ghost / NeOx-Kernel).
+> Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems.
 
 
 
