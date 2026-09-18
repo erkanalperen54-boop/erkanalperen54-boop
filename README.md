@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="githubgif.gif" alt="Profile header" width="1080"/>
+</p>
 
 ## Skills 
 <p align="center">
@@ -29,7 +31,7 @@
 </a>
 </p>
 
-> Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems.
+ <!-- > Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems.
 
 
 
