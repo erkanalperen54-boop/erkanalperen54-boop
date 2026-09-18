@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="post.png" alt="Profile header" width="1080"/>
-</p>
 
 
 ## Skills 
@@ -22,6 +19,15 @@
   <h2></h2>
 </div>
 
+
+## 📈 GitHub Stats  
+<p align="center">
+<a href="https://github.com/erkanalperen54-boop">
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erkanalperen54-boop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erkanalperen54-boop&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erkanalperen54-boop&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"/>
+</a>
+</p>
 
 > Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems.
 
