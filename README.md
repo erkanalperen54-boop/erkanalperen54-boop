@@ -2,7 +2,7 @@
   <img src="githubgif.gif" alt="Profile header" width="1080"/>
 </p>
 
-## Skills 
+### Skills 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src= "https://skillicons.dev/icons?i=c,cpp,matlab,git,linux,md,kali,docker,bash,vim,debian,blender,vscode,arch,apple " />
@@ -11,7 +11,8 @@
 <div align="center">
   <h2></h2>
   <br />
-
+  
+### Best of Luck
   <img src="./github-community-leader.png" height="110" alt="GitHub Community Leader" title="GitHub Community Leader">
   <img src="./github-advanced-security.png" height="110" alt="GitHub Advanced Security" title="GitHub Advanced Security">
   <img src="./All-In-for-Students-All-%C4%B1n-Award.png" height="110" alt="All In for Students All In Award" title="All In for Students All In Award">
@@ -22,7 +23,7 @@
 </div>
 
 
-## 📈 GitHub Stats  
+### GitHub Stats  
 <p align="center">
 <a href="https://github.com/erkanalperen54-boop">
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erkanalperen54-boop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
