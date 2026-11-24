@@ -2,8 +2,6 @@
   <img src="githubgif.gif" alt="Profile header" width="1080"/>
 </p>
 
-[About Alperen ERKAN · Hakkımda](./AGENT-README.txt)
-
 ### Skills 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,6 +31,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erkanalperen54-boop&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"/>
 </a>
 </p>
+
+[About me](./AGENT-README.txt)
+
 
  <!-- > Contribution history prior to May 2026 reflects the migration of active development commits from my legacy/previous repository systems.
 
