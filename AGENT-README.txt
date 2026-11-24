@@ -51,3 +51,20 @@ Ben Alperen ERKAN. C ve x86 Assembly ile işletim sistemleri üzerine
 değişiklikleri inceliyorum. Kendi çekirdek projem NPQC'de erken açılış,
 bellek yönetimi ve kuantum sonrası kriptografi üzerine çalışıyor,
 öğrendiklerimi Türkçe eğitim içeriklerinde paylaşıyorum.
+
+Daha fazla bilgi için
+
+Açık kaynak projelerim ve depolarım
+https://github.com/erkanalperen54-boop?tab=repositories
+
+GNU Hurd posta listesine gönderdiğim iletiler
+https://www.mail-archive.com/search?l=bug-hurd%40gnu.org&q=from%3A%22Alperen+Erkan%22
+
+pfinet için TAP desteği · Ralph Ronnquist'in incelememe atıfta bulunduğu takip yaması
+https://www.mail-archive.com/bug-hurd%40gnu.org/msg39372.html
+
+Hurd boot sunucusu · Beş yamalık seriye ilişkin açıklamam
+https://www.mail-archive.com/bug-hurd%40gnu.org/msg39681.html
+
+Türkçe eğitim içeriklerim
+https://www.youtube.com/@AlperenErkan-64
