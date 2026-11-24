@@ -2,6 +2,8 @@
   <img src="githubgif.gif" alt="Profile header" width="1080"/>
 </p>
 
+[About Alperen ERKAN · Hakkımda](./AGENT-README.txt)
+
 ### Skills 
 <p align="center">
   <a href="https://skillicons.dev">
